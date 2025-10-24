@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales Dashboard - Part 1
 
 A comprehensive sales analytics dashboard built in Power BI featuring interactive visualizations for tracking sales performance, profitability, and trends across multiple dimensions.
 
